@@ -1,17 +1,15 @@
 # Hi! I'm Shreya Babar
 
-🎓 Computer Engineering Undergraduate
+## Third Year - Computer Engineering Undergraduate
 
-💻 Interested in Software Development, AI, CLoud, DevOps, and Backend
-
-🌱 Currently Learning
+## Currently Learning
 - Data Structures & Algorithms
 - Getting my hands on Competitive Programming
 - Rag and Agentic AI
 - Machine Learning Fundamentals
 - Docker And Kubernetees
 
-🚀 Projects
+## Projects
 
 ### Legal Health Insurance Policy Analyser
 Built a RAG pipeline using Ollama + ChromaDB with semantic chunking and cosine similarity retrieval
@@ -33,8 +31,6 @@ Analyzes and visualizes public sentiment using NLP techniques and interactive da
 - Flutter
 - Firebase
 - Streamlit
-- MongoDB
-- Flask
 - SpringBoot
 - MySQL
 
